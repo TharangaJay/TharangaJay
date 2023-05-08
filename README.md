@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharanga
-- I am a PhD student in Mechanical Engineering and I am currently studying on infiltration in multi-unit residential buildings and how it affects energy consumption.
+- I am interested in Building Energy Efficiency, formular 1 and making espresso.
 
 
 <!---
