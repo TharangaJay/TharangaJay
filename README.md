@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharanga
-- I am interested in Building Energy Efficiency, formular 1 and making espresso.
+
 
 
 <!---
